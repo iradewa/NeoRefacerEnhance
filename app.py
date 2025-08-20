@@ -14,7 +14,7 @@ import pyfiglet
 import shutil
 import time
 
-print("\033[94m" + pyfiglet.Figlet(font='slant').renderText("NeoRefacer") + "\033[0m")
+print("\033[91m" + pyfiglet.Figlet(font='univers').renderText("DSL Media") + "\033[0m")
 
 def cleanup_temp(folder_path):
     try:
