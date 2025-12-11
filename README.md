@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/MechasAI/NeoRefacer/main/icon.png"/>
 
 # NeoRefacer: Images. GIFs. TIFFs. Full-length videos.
 
